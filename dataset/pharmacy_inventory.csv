@@ -1,0 +1,7 @@
+drug_name,category,stock_level,monthly_demand,expiry_months,supplier,lead_time_days,unit_cost
+Paracetamol,Analgesic,500,300,24,Supplier A,5,2
+Amoxicillin,Antibiotic,200,250,18,Supplier B,7,5
+Insulin,Diabetes,50,120,6,Supplier C,10,20
+Atorvastatin,Cardio,150,100,24,Supplier A,6,8
+Omeprazole,Gastro,300,200,20,Supplier B,5,3
+Ventolin,Respiratory,80,150,12,Supplier C,8,10
